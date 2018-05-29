@@ -1,0 +1,1 @@
+echo "# localization-resolver-plugin"
